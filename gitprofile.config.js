@@ -165,8 +165,9 @@ const config = {
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
     },
-  }
-
+  },
+ // Optional Footer. Supports plain text or HTML.
+  footer: `Doing what I can everyday`,
+};
   
-
 export default config;
