@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'abdul-samateh/',
+    linkedin: 'abdul-samateh',
     twitter: '',
     mastodon: '',
     facebook: '',
