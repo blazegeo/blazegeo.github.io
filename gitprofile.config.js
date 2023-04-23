@@ -4,7 +4,7 @@ const config = {
   github: {
     username: 'blazegeo', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 3, // How many projects to display.
+    limit: 1, // How many projects to display.
     exclude: {
       forks: true, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
@@ -82,8 +82,8 @@ const config = {
       title: 'Maryland Covid Cases',
       description:
         'A Study of the Covid Cases in Maryland by County',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      imageUrl: 'https://www.flickr.com/photos/40632439@N00/6315779903',
+      link: 'https://blazegeo.github.io/Maryland-Covid-19/',
     }
    /* {
       title: 'Project Name',
