@@ -82,7 +82,7 @@ const config = {
       title: 'Maryland Covid Cases',
       description:
         'A Study of the Covid Cases in Maryland by County',
-      imageUrl: 'https://www.flickr.com/photos/40632439@N00/6315779903',
+      imageUrl: 'https://cdn.pixabay.com/photo/2015/08/16/05/20/maryland-890635_960_720.png',
       link: 'https://blazegeo.github.io/Maryland-Covid-19/',
     }
    /* {
@@ -108,7 +108,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'fantasy',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
