@@ -84,7 +84,7 @@ const config = {
         'A Study of the Covid Cases in Maryland by County',
       imageUrl: 'https://cdn.pixabay.com/photo/2015/08/16/05/20/maryland-890635_960_720.png',
       link: 'https://blazegeo.github.io/Maryland-Covid-19/',
-    },
+    }
     {
       title: 'Warby Parker Marketing Funnel Analysis',
       description:
