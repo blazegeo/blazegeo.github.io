@@ -84,14 +84,14 @@ const config = {
         'A Study of the Covid Cases in Maryland by County',
       imageUrl: 'https://cdn.pixabay.com/photo/2015/08/16/05/20/maryland-890635_960_720.png',
       link: 'https://blazegeo.github.io/Maryland-Covid-19/',
-    }
+    },
     {
       title: 'Warby Parker Marketing Funnel Analysis',
       description:
         'An analysis of the two marketing funnels used by Warby Parker',
       imageUrl: 'https://dfdnews.com/uploads/fashion-needs-winner04.jpg',
-      link: 'https://dfdnews.com/uploads/fashion-needs-winner04.jpg',
-    },/*
+      link: 'https://docs.google.com/document/d/17VjRzphHP-rFDehka8JEvUP2uCHeIl7SOhXknaN8AX8/edit?usp=sharing',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   /*blog: {
