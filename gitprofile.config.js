@@ -91,7 +91,7 @@ const config = {
         'An analysis of the two marketing funnels used by Warby Parker',
       imageUrl: 'https://dfdnews.com/uploads/fashion-needs-winner04.jpg',
       link: 'https://dfdnews.com/uploads/fashion-needs-winner04.jpg',
-    },*/
+    },/*
   ],
   // Display blog posts from your medium or dev account. (Optional)
   /*blog: {
