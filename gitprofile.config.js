@@ -29,7 +29,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1a3svWzP4sRYK82MtS2Nqlg-VUdxM2AbO/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://docs.google.com/document/d/1DDQ39941Niv1SBSNl2yLgj6-JpLwq_YC99wcWl2Jjq8/edit?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
@@ -38,6 +38,13 @@ const config = {
     'SQL',
   ],
   experiences: [
+    {
+      company: 'DSM-firmenich',
+      position: 'Analytical Lab Technician',
+      from: 'July 2023',
+      to: 'Present',
+      companyLink: 'https://www.dsm-firmenich.com/corporate/home.html',
+    },
     {
       company: 'Green Analytics Maryland',
       position: 'Lab Technician II',
@@ -49,7 +56,7 @@ const config = {
       company: 'Ion Storage Systems',
       position: 'Manufacturing Technician II',
       from: 'August 2022',
-      to: 'Present',
+      to: 'July 2023',
       companyLink: 'https://ionstoragesystems.com/',
     },
   ],
@@ -91,6 +98,13 @@ const config = {
         'An analysis of the two marketing funnels used by Warby Parker',
       imageUrl: 'https://dfdnews.com/uploads/fashion-needs-winner04.jpg',
       link: 'https://docs.google.com/document/d/17VjRzphHP-rFDehka8JEvUP2uCHeIl7SOhXknaN8AX8/edit?usp=sharing',
+    },
+    {
+      title: 'Fatty Acid Methyl Ester Grapher',
+      description:
+        'A presentation of a processing aid created with Python for GC-FID data from Chromeleon',
+      imageUrl: 'https://static.molinstincts.com/compound_3d/C18-5-FAME-3D-structure-CT1103349036.png',
+      link: 'https://docs.google.com/presentation/d/1W4RmsU2YkxJtmMzMXB9w8Du_FxjCKnSg/edit?usp=sharing&ouid=115789390835738649229&rtpof=true&sd=true',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
